@@ -19,6 +19,10 @@ Ce repo contient les codes développés dans le cadre de ma série de vidéo sur
 
 <a href="https://www.youtube.com/watch?v=n4q5tvxnNlU" target="_blank" ><img  src="https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle/blob/master/%233%20-%201er%20Projet%20-%20Construire%20un%20Test%20ADN/cover-serie-3.png?raw=true" alt="#1-AlDLaT" width="500" height="auto"/></a>
 
+### #4 - Programmation objet avancée
+
+<a href="https://youtu.be/_J80GQoVT-4" target="_blank" ><img  src="https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle/blob/master/%234%20-%20Programmation%20objet%20avanc%C3%A9e/cover-serie-4.png?raw=true" width="800" height="auto"/></a>
+
 ### To be continued... Chaque semaine sur Youtube une nouvelle vidéo
 
 ## Authors
