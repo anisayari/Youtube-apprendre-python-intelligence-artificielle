@@ -28,7 +28,7 @@ Ce repo contient les codes développés dans le cadre de ma série de vidéo sur
 
 <a href="https://youtu.be/eeyS0SpiEns" target="_blank" ><img  src="https://raw.githubusercontent.com/anisayari/Youtube-apprendre-python-intelligence-artificielle/master/%235%20-%20Regex%2C%20exceptions%2C%20modules%20et%20astuces/cover-serie-2.png" width="500" height="auto"/></a>
 
-### To be continued... Chaque semaine sur Youtube une nouvelle vidéo
+### To be continued... tout les jours sur Tourube a 18h pendant toute la durée du confinement 
 
 ## Authors
 
