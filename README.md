@@ -23,6 +23,11 @@ Ce repo contient les codes développés dans le cadre de ma série de vidéo sur
 
 <a href="https://youtu.be/_J80GQoVT-4" target="_blank" ><img  src="https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle/blob/master/%234%20-%20Programmation%20objet%20avanc%C3%A9e/cover-serie-4.png?raw=true" width="500" height="auto"/></a>
 
+
+### #5 - Regex, exceptions, modules et astuces
+
+<a href="https://youtu.be/eeyS0SpiEns" target="_blank" ><img  src="https://raw.githubusercontent.com/anisayari/Youtube-apprendre-python-intelligence-artificielle/master/%235%20-%20Regex%2C%20exceptions%2C%20modules%20et%20astuces/cover-serie-2.png" width="500" height="auto"/></a>
+
 ### To be continued... Chaque semaine sur Youtube une nouvelle vidéo
 
 ## Authors
